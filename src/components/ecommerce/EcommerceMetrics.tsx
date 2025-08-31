@@ -52,6 +52,8 @@ export default function EcommerceMetrics() {
             9.05%
           </Badge>
         </div>
+ 
+
       </div>
       {/* <!-- Metric Item End --> */}
     </div>
