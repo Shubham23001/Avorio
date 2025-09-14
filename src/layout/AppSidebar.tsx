@@ -24,21 +24,6 @@ const navItems: NavItem[] = [
     name: "Dashboard",
     subItems: [{ name: "HomePage", path: "/", pro: false }],
   },
-  // {
-  //   icon: <CalenderIcon />,
-  //   name: "Calendar",
-  //   path: "/calendar",
-  // },
-  // {
-  //   icon: <UserCircleIcon />,
-  //   name: "User Profile",
-  //   path: "/profile",
-  // },
-  // {
-  //   name: "Forms",
-  //   icon: <ListIcon />,
-  //   subItems: [{ name: "Form Elements", path: "/form-elements", pro: false }],
-  // },
   {
     name: "Products",
     icon: <TableIcon />,

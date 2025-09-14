@@ -7,6 +7,7 @@ import {
 } from "../../ui/table";
 
 import Badge from "../../ui/badge/Badge";
+import * as React from "react";
 
 interface Order {
   id: number;

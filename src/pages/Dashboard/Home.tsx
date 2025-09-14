@@ -29,13 +29,14 @@ export default function Home() {
               <RecentOrders />
         </div>
 
-        <div className="col-span-12 xl:col-span-12">
-           <RevenueGraph />
-        </div>
 
         <div className="col-span-12 xl:col-span-12">    
           <TopOrders/>
           </div>
+          
+        <div className="col-span-12 xl:col-span-12">
+           <RevenueGraph />
+        </div>
       </div>
     </>
   );
